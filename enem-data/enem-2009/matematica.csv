@@ -737,4 +737,70 @@ Considere um ponto P em uma circunferência de raio r no plano cartesiano. Seja 
 Então, o ponto Q percorrerá, no eixo x, uma distância dada por
 
 
-",r( 1 - sen d/r ).,r( 1 - cos d/r ).,r( 1 - tag d/r ).,rsen (r/d).,rcos (r/d).,B,enem-data/enem-2009/174-images/context_img_0.png
+",r( 1 - sen d/r ).,r( 1 - cos d/r ).,r( 1 - tag d/r ).,rsen (r/d).,rcos (r/d).,B,enem-data/enem-2009/174-images/context_img_0.png,
+
+
+"141",
+
+"O governo cedeu terrenos para que famílias construíssem suas residências com as condições de que no mínimo 94% da área do terreno fosse mantida como área de preservação ambiental. 
+Ao receber o terreno retangular ABCD, em que AB = BC/2, Antônio demarcou uma área quadrada no vértice A, para a construção de sua residência, de acordo com o desenho, no qual
+AE = AB/5 é lado do quadrado.",
+
+"Nesse caso, a área definida por Antônio atingiria exatamente o limite determinado pela condição se ele",
+
+"duplicasse a medida do lado do quadrado.", "triplicasse a medida do lado do quadrado.", "triplicasse a área do quadrado.", "ampliasse a medida do lado do quadrado em 4%.", "ampliasse a área do quadrado em 4%.",C, imagem,
+
+
+"146", "O controle de qualidade de uma empresa
+fabricante de telefones celulares aponta que a
+probabilidade de um aparelho de determinado modelo
+apresentar defeito de fabricação é de 0,2%.", "Se uma loja
+acaba de vender 4 aparelhos desse modelo para um
+cliente, qual é a probabilidade de esse cliente sair da loja
+com exatamente dois aparelhos defeituosos?", "2 × (0,2%)^4.", "4 × (0,2%)².", "6 × (0,2%)² × (99,8%)².", "4 × (0,2%).", "6 × (0,2%) × (99,8%).",C,image, 
+
+
+"157", "Uma empresa que fabrica esferas de aço, de
+6 cm de raio, utiliza caixas de madeira, na forma de um
+cubo, para transportá-las.",
+"Sabendo que a capacidade da caixa é de 13.824 cm³,
+então o número máximo de esferas que podem ser
+transportadas em uma caixa é igual a", 4, 8, 16, 24, 32, B, imagem,
+
+
+
+
+"165", "Rotas aéreas são como pontes que ligam cidades,
+estados ou países. O mapa a seguir mostra os estados
+brasileiros e a localização de algumas capitais identificadas
+pelos números. Considere que a direção seguida por um
+avião AI que partiu de Brasília – DF, sem escalas, para
+Belém, no Pará, seja um segmento de reta com
+extremidades em DF e em 4. Suponha que um passageiro de nome Carlos pegou um
+avião AII, que seguiu a direção que forma um ângulo de
+135° graus no sentido horário com a rota Brasília – Belém
+e pousou em alguma das capitais brasileiras. Ao
+desembarcar, Carlos fez uma conexão e embarcou em um
+avião AIII, que seguiu a direção que forma um ângulo reto,
+no sentido anti-horário, com a direção seguida pelo avião
+AII ao partir de Brasília-DF.", "Considerando que a direção
+seguida por um avião é sempre dada pela semirreta com
+origem na cidade de partida e que passa pela cidade
+destino do avião, pela descrição dada, o passageiro Carlos
+fez uma conexão em", "Belo Horizonte, e em seguida embarcou para Curitiba.", "Belo Horizonte, e em seguida embarcou para
+Salvador.", "Boa Vista, e em seguida embarcou para Porto Velho.", "Goiânia, e em seguida embarcou para o Rio de
+Janeiro.", "Goiânia, e em seguida embarcou para Manaus.", B, imagem
+
+
+
+
+
+
+
+
+
+
+
+
+
+
