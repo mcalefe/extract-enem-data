@@ -760,3 +760,168 @@ A imagem que representa a nova figura é:
 
 
 ",enem-data/enem-2013/160-images/alt_img_0.png,enem-data/enem-2013/160-images/alt_img_1.png,enem-data/enem-2013/160-images/alt_img_2.png,enem-data/enem-2013/160-images/alt_img_3.png,enem-data/enem-2013/160-images/alt_img_4.png,E,enem-data/enem-2013/160-images/context_img_0.png
+
+39,136,"
+
+A parte interior de uma taça foi gerada pela rotação 
+de uma parábola em torno de um eixo z, conforme mostra 
+a figura.
+A função real que expressa a parábola, no plano 
+cartesiano da figura, é dada pela lei f(x) = (3/2)x² - 6x + C, 
+onde C é a medida da altura do líquido contido na taça, em 
+centímetros. Sabe-se que o ponto V, na figura, representa 
+o vértice da parábola, localizado sobre o eixo x.
+
+
+
+","
+
+
+
+Nessas condições, a altura do líquido contido na taça, em 
+centímetros, é
+
+
+
+",1,2,4,5,6,E,---
+
+
+40,143,"
+
+
+Uma indústria tem um reservatório de água com 
+capacidade para 900 m3. Quando há necessidade 
+de limpeza do reservatório, toda a água precisa ser 
+escoada. O escoamento da água é feito por seis ralos, 
+e dura 6 horas quando o reservatório está cheio. 
+Esta indústria construirá um novo reservatório, com 
+capacidade de 500 m3, cujo escoamento da água deverá 
+ser realizado em 4 horas, quando o reservatório estiver 
+cheio. Os ralos utilizados no novo reservatório deverão 
+ser idênticos aos do já existente.
+
+","
+
+
+A quantidade de ralos do novo reservatório deverá ser 
+igual a
+
+
+",2,4,5,8,9,C,---
+
+
+41,158,"
+
+
+
+Um banco solicitou aos seus clientes a criação de 
+uma senha pessoal de seis dígitos, formada somente 
+por algarismos de 0 a 9, para acesso à conta corrente 
+pela internet.
+Entretanto, um especialista em sistemas de 
+segurança eletrônica recomendou à direção do banco 
+recadastrar seus usuários, solicitando, para cada um 
+deles, a criação de uma nova senha com seis dígitos, 
+permitindo agora o uso das 26 letras do alfabeto, além 
+dos algarismos de 0 a 9. Nesse novo sistema, cada 
+letra maiúscula era considerada distinta de sua versão 
+minúscula. Além disso, era proibido o uso de outros 
+tipos de caracteres.
+Uma forma de avaliar uma alteração no sistema de 
+senhas é a verificação do coeficiente de melhora, que é 
+a razão do novo número de possibilidades de senhas em 
+relação ao antigo.
+
+
+
+","
+
+
+O coeficiente de melhora da alteração recomendada é
+
+
+
+",62^6/10^6,62!/10!,(62!4!)/(10!56!),62!-10!,62^6-10^6,A,---
+
+
+42,159,"
+
+
+Uma torneira não foi fechada corretamente e ficou 
+pingando, da meia-noite às seis horas da manhã, com a 
+frequência de uma gota a cada três segundos. Sabe-se 
+que cada gota d’agua tem volume de 0,2 mL.
+
+
+","
+
+
+
+Qual foi o valor mais aproximado do total de água 
+desperdiçada nesse período, em litros?
+
+
+
+","0,2","1,2","1,4","12,9","64,8",C,---
+
+
+
+43,164,"
+
+
+
+
+Na aferição de um novo semáforo, os tempos são 
+ajustados de modo que, em cada ciclo completo (verdeamarelo-vermelho), a luz amarela permaneça acesa por 
+5 segundos, e o tempo em que a luz verde permaneça 
+acesa seja igual a 2
+3 do tempo em que a luz vermelha 
+fique acesa. A luz verde fica acesa, em cada ciclo, 
+durante X segundos e cada ciclo dura Y segundos.
+
+
+
+
+","
+
+
+Qual é a expressão que representa a relação entre X e Y?
+
+
+","5X − 3Y + 15 = 0","5X − 2Y + 10 = 0","3X − 3Y + 15 = 0","3X − 2Y + 15 = 0","3X − 2Y + 10 = 0",B,---
+
+
+44,173,"
+
+
+Gangorra é um brinquedo que consiste de uma tábua 
+longa e estreita equilibrada e fixada no seu ponto central 
+(pivô). Nesse brinquedo, duas pessoas sentam-se nas 
+extremidades e, alternadamente, impulsionam-se para 
+cima, fazendo descer a extremidade oposta, realizando, 
+assim, o movimento da gangorra.
+Considere a gangorra representada na figura, em que 
+os pontos A e B são equidistantes do pivô:
+
+
+
+","
+
+
+
+A projeção ortogonal da trajetória dos pontos A e B, sobre 
+o plano do chão da gangorra, quando esta se encontra 
+em movimento, é:
+
+
+",imagemA,imagemB,imagemC,imagemD,imagemE,B,---
+
+
+
+
+
+
+
+
+
+
