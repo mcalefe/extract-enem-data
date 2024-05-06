@@ -1,7 +1,12 @@
 ,number,context,question,A,B,C,D,E,answer,context-images
 0,138,"
 
-
+O dono de uma oficina mecânica precisa de um 
+pistão das partes de um motor, de 68 mm de diâmetro, 
+para o conserto de um carro. Para conseguir um, esse 
+dono vai até um ferro velho e lá encontra pistões com 
+diâmetros iguais a 68,21 mm; 68,102 mm; 68,001 mm; 
+68,02 mm e 68,012 mm.
 
 Para colocar o pistão no motor que está sendo consertado, o dono da oficina terá de adquirir aquele que tenha o diâmetro mais próximo do que precisa.
 
@@ -67,7 +72,17 @@ Qual a diferença, em pés, entre as altitudes liberadas na Finlândia e no rest
 
 
 
-
+A Escala de Magnitude de Momento (abreviada 
+como MMS e denotada como Mw), introduzida em 1979 
+por Thomas Haks e Hiroo Kanamori, substituiu a Escala 
+de Richter para medir a magnitude dos terremotos em 
+termos de energia liberada. Menos conhecida pelo 
+público, a MMS é, no entanto, a escala usada para 
+estimar as magnitudes de todos os grandes terremotos 
+da atualidade. Assim como a escala Richter, a MMS é 
+uma escala logarítmica. MW e M0
+ se relacionam pela 
+fórmula:
 
 
 
@@ -111,7 +126,11 @@ De acordo com essas informações, qual a previsão mais aproximada para consumo
 6,150,"
 
 
-
+A participação dos estudantes na Olimpíada 
+Brasileira de Matemática das Escolas Públicas (OBMEP) 
+aumenta a cada ano. O quadro indica o percentual de 
+medalhistas de ouro, por região, nas edições da OBMEP 
+de 2005 a 2009:
 
 
 
@@ -126,9 +145,22 @@ Em relação às edições de 2005 a 2009 da OBMEP, qual o percentual médio de 
 
 
 
+Em uma certa cidade, os moradores de um bairro 
+carente de espaços de lazer reivindicam à prefeitura 
+municipal a construção de uma praça. A prefeitura 
+concorda com a solicitação e afirma que irá construí-la 
+em formato retangular devido às características técnicas 
+do terreno. Restrições de natureza orçamentária impõem 
+que sejam gastos, no máximo, 180 m de tela para 
+cercar a praça. A prefeitura apresenta aos moradores 
+desse bairro as medidas dos terrenos disponíveis para a 
+construção da praça:
 
-
-
+Terreno 1: 55 m por 45 m
+Terreno 2: 55 m por 55 m
+Terreno 3: 60 m por 30 m
+Terreno 4: 70 m por 20 m
+Terreno 5: 95 m por 85 m
 
 ","
 
@@ -139,7 +171,11 @@ Para optar pelo terreno de maior área, que atenda às restrições impostas pel
 8,136,"
 
 
-
+Um mecânico de uma equipe de corrida necessita 
+que as seguintes medidas realizadas em um carro sejam 
+obtidas em metros:
+ a) distância a entre os eixos dianteiro e traseiro;
+ b) altura b entre o solo e o encosto do piloto.
 
 
 
@@ -152,7 +188,9 @@ Ao optar pelas medidas a e b em metros, obtêm-se, respectivamente,
 ","0,23 e 0,16.","2,3 e 1,6.",23 e 16.,230 e 160.,2 300 e 1 600.,B,enem-data/enem-2011/136-images/context_img_0.png
 9,146,"
 
-
+Você pode adaptar as atividades do seu dia a dia de 
+uma forma que possa queimar mais calorias do que as 
+gastas normalmente, conforme a relação seguinte: 
 
 
 – Enquanto você fala ao telefone, faça agachamentos: 100 calorias gastas em 20 minutos.
@@ -190,6 +228,10 @@ O saldo de contratações no mercado formal no setor varejista da região metrop
 
 Disponível em: http://www.folha.uol.com.br. Acesso em: 26 abr. 2010 (adaptado).
 
+Suponha que o incremento de trabalhadores no setor 
+varejista seja sempre o mesmo nos seis primeiros 
+meses do ano.
+
 
 
 ","
@@ -201,7 +243,12 @@ Considerando-se que y e x representam, respectivamente, as quantidades de trabal
 11,152,"
 
 
-
+Um bairro de uma cidade foi planejado em uma 
+região plana, com ruas paralelas e perpendiculares, 
+delimitando quadras de mesmo tamanho. No plano 
+de coordenadas cartesianas seguinte, esse bairro 
+localiza-se no segundo quadrante, e as distâncias nos 
+eixos são dadas em quilômetros.
 
 
 
@@ -217,7 +264,10 @@ Atendendo ao pedido da comunidade, o comitê argumentou corretamente que isso se
 
 
 
-
+A tabela compara o consumo mensal, em kWh, dos 
+consumidores residenciais e dos de baixa renda, antes 
+e depois da redução da tarifa de energia no estado de 
+Pernambuco.
 
 
 
@@ -234,7 +284,15 @@ A diferença entre o gasto desses consumidores com 1kWh, depois da redução da 
 13,148,"
 
 
-
+Uma equipe de especialistas do centro meteorológico 
+de uma cidade mediu a temperatura do ambiente, sempre 
+no mesmo horário, durante 15 dias intercalados, a partir 
+do primeiro dia de um mês. Esse tipo de procedimento 
+é frequente, uma vez que os dados coletados servem 
+de referência para estudos e verificação de tendências 
+climáticas ao longo dos meses e anos.
+As medições ocorridas nesse período estão indicadas 
+no quadro:
 
 
 
@@ -249,7 +307,10 @@ Em relação à temperatura, os valores da média, mediana e moda são, respecti
 
 
 
-
+O medidor de energia elétrica de uma residência, 
+conhecido por “relógio de luz”, é constituído de quatro 
+pequenos relógios, cujos sentidos de rotação estão 
+indicados conforme a figura:
 
 
 
@@ -293,7 +354,13 @@ Quantas passagens foram vendidas por essa empresa em julho do ano passado?
 
 
 
-
+Rafael mora no Centro de uma cidade e decidiu 
+se mudar, por recomendações médicas, para uma 
+das regiões: Rural, Comercial, Residencial Urbano ou 
+Residencial Suburbano. A principal recomendação 
+médica foi com as temperaturas das “ilhas de calor” 
+da região, que deveriam ser inferiores a 31°C. Tais 
+temperaturas são apresentadas no gráfico:
 
 
 
@@ -307,7 +374,11 @@ Escolhendo, aleatoriamente, uma das outras regiões para morar, a probabilidade 
 
 
 
-
+Uma indústria fabrica brindes promocionais em 
+forma de pirâmide. A pirâmide é obtida a partir de quatro 
+cortes em um sólido que tem a forma de um cubo. No 
+esquema, estão indicados o sólido original (cubo) e a 
+pirâmide obtida a partir dele.
 
 
 
@@ -327,7 +398,13 @@ Os formatos dos sólidos descartados são
 
 
 
-
+Para determinar a distância de um barco até a praia, 
+um navegante utilizou o seguinte procedimento: a partir 
+de um ponto A, mediu o ângulo visual α fazendo mira em 
+um ponto fixo P da praia. Mantendo o barco no mesmo 
+sentido, ele seguiu até um ponto B de modo que fosse 
+possível ver o mesmo ponto P da praia, no entanto sob 
+um ângulo visual 2α. A figura ilustra essa situação:
 
 
 
@@ -405,7 +482,7 @@ Nos últimos cinco anos, 32 mil mulheres de 20 a 24 anos foram internadas nos ho
 
 
 
-Supondo que, nos próximos cinco anos, haja um acréscimo de 8 mil internações de mulheres e que o acréscimo de internações de homens por AVC ocorra na mesma proporção.
+Suponha que, nos próximos cinco anos, haja um acréscimo de 8 mil internações de mulheres e que o acréscimo de internações de homens por AVC ocorra na mesma proporção.
 
 
 ","
@@ -444,7 +521,15 @@ Em razão disso, a ordem de chamada do candidato que tiver recebido o número 75
 27,166,"
 
 
-
+Todo o país passa pela primeira fase de campanha 
+de vacinação contra a gripe suína (H1N1). Segundo um 
+médico infectologista do Instituto Emílio Ribas, de São 
+Paulo, a imunização “deve mudar”, no país, a história 
+da epidemia. Com a vacina, de acordo com ele, o Brasil 
+tem a chance de barrar uma tendência do crescimento 
+da doença, que já matou 17 mil no mundo. A tabela 
+apresenta dados específicos de um único posto de 
+vacinação. 
 
 
 
@@ -459,7 +544,11 @@ Escolhendo-se aleatoriamente uma pessoa atendida nesse posto de vacinação, a p
 
 
 
-
+Uma enquete, realizada em março de 2010, 
+perguntava aos internautas se eles acreditavam que as 
+atividades humanas provocam o aquecimento global. 
+Eram três as alternativas possíveis e 279 internautas 
+responderam à enquete, como mostra o gráfico.
 
 
 
@@ -473,7 +562,14 @@ Analisando os dados do gráfico, quantos internautas responderam “NÃO” à e
 
 
 
-
+A cor de uma estrela tem relação com a temperatura 
+em sua superfície. Estrelas não muito quentes (cerca 
+de 3 000 K) nos parecem avermelhadas. Já as estrelas 
+amarelas, como o Sol, possuem temperatura em torno 
+dos 6 000 K; as mais quentes são brancas ou azuis 
+porque sua temperatura fica acima dos 10 000 K.
+A tabela apresenta uma classificação espectral e 
+outros dados para as estrelas dessas classes.
 
 
 
@@ -487,7 +583,13 @@ Se tomarmos uma estrela que tenha temperatura 5 vezes maior que a temperatura do
 
 
 
-
+O atletismo é um dos esportes que mais se 
+identificam com o espírito olímpico. A figura ilustra uma 
+pista de atletismo. A pista é composta por oito raias 
+e tem largura de 9,76 m. As raias são numeradas do 
+centro da pista para a extremidade e são construídas de 
+segmentos de retas paralelas e arcos de circunferência. 
+Os dois semicírculos da pista são iguais.
 
 
 
@@ -501,7 +603,12 @@ Se os atletas partissem do mesmo ponto, dando uma volta completa, em qual das ra
 
 
 
-
+O termo agronegócio não se refere apenas à agricultura 
+e à pecuária, pois as atividades ligadas a essa produção 
+incluem fornecedores de equipamentos, serviços para a 
+zona rural, industrialização e comercialização dos produtos.
+O gráfico seguinte mostra a participação percentual 
+do agronegócio no PIB brasileiro:
 
 
 
@@ -519,7 +626,11 @@ Segundo o gráfico, o período de queda ocorreu entre os anos de
 
 
 
-
+A resistência das vigas de dado comprimento é 
+diretamente proporcional à largura (b) e ao quadrado 
+da altura (d), conforme a figura. A constante de 
+proporcionalidade k varia de acordo com o material 
+utilizado na sua construção.
 
 
 
@@ -544,7 +655,14 @@ Considerando-se as funções FT(q) = 5q e CT(q) = 2q + 12 como faturamento e cus
 
 
 
-
+A figura apresenta informações biométricas de um 
+homem (Duílio) e de uma mulher (Sandra) que estão 
+buscando alcançar seu peso ideal a partir das atividades 
+físicas (corrida). Para se verificar a escala de obesidade, 
+foi desenvolvida a fórmula que permite verificar o Índice 
+de Massa Corporal (IMC). Esta fórmula é apresentada 
+como IMC = m/h², onde m é a massa em quilogramas e 
+h é altura em metros.
 
 
 
@@ -571,7 +689,16 @@ A partir dos dados biométricos de Duílio e Sandra e da Escala de IMC, o valor 
 
 
 
-
+Considere que uma pessoa decida investir uma 
+determinada quantia e que lhe sejam apresentadas três 
+possibilidades de investimento, com rentabilidades líquidas 
+garantidas pelo período de um ano, conforme descritas:
+Investimento A: 3% ao mês
+Investimento B: 36% ao ano
+Investimento C: 18% ao semestre
+As rentabilidades, para esses investimentos, incidem 
+sobre o valor do período anterior. O quadro fornece 
+algumas aproximações para a análise das rentabilidades:
 
 
 
@@ -585,7 +712,11 @@ Para escolher o investimento com a maior rentabilidade anual, essa pessoa dever�
 
 
 
-
+Um técnico em refrigeração precisa revisar todos os 
+pontos de saída de ar de um escritório com várias salas.
+Na imagem apresentada, cada ponto indicado 
+por uma letra é a saída do ar, e os segmentos são as 
+tubulações.
 
 
 
