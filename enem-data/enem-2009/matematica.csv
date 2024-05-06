@@ -772,12 +772,7 @@ O controle de qualidade de uma empresa fabricante de telefones celulares aponta 
 Se uma loja acaba de vender 4 aparelhos desse modelo para um cliente, qual é a probabilidade de esse cliente sair da loja com exatamente dois aparelhos defeituosos?","2 × (0,2%)^4.","4 × (0,2%)².","6 × (0,2%)² × (99,8%)².","4 × (0,2%).","6 × (0,2%) × (99,8%).",C,---
 
 
-43,157
-
-
-
-
-,"
+43,157,"
 
 
 Uma empresa que fabrica esferas de aço, de 6 cm de raio, utiliza caixas de madeira, na forma de um cubo, para transportá-las.
@@ -794,12 +789,7 @@ Sabendo que a capacidade da caixa é de 13.824 cm³, então o número máximo de
 
 
 
-44,165
-
-
-
-
-,"
+44,165,"
 
 
 Rotas aéreas são como pontes que ligam cidades, estados ou países. O mapa a seguir mostra os estados brasileiros e a localização de algumas capitais identificadas pelos números. Considere que a direção seguida por um avião AI que partiu de Brasília – DF, sem escalas, para Belém, no Pará, seja um segmento de reta com extremidades em DF e em 4. Suponha que um passageiro de nome Carlos pegou um avião AII, que seguiu a direção que forma um ângulo de 135° graus no sentido horário com a rota Brasília – Belém e pousou em alguma das capitais brasileiras. Ao desembarcar, Carlos fez uma conexão e embarcou em um avião AIII, que seguiu a direção que forma um ângulo reto, no sentido anti-horário, com a direção seguida pelo avião AII ao partir de Brasília-DF.
