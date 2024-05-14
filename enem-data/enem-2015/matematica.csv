@@ -687,3 +687,354 @@ O número de formas distintas de se acomodar a família nesse voo é calculado p
 
 
 ",enem-data/enem-2015/170-images/alt_img_0.png,enem-data/enem-2015/170-images/alt_img_1.png,enem-data/enem-2015/170-images/alt_img_2.png,enem-data/enem-2015/170-images/alt_img_3.png,enem-data/enem-2015/170-images/alt_img_4.png,A,enem-data/enem-2015/170-images/context_img_0.png
+
+
+31,138,"
+
+
+Após realizar uma pesquisa de mercado, uma 
+operadora de telefonia celular ofereceu aos clientes que 
+utilizavam até 500 ligações ao mês o seguinte plano 
+mensal: um valor fixo de R$ 12,00 para os clientes que 
+fazem até 100 ligações ao mês. Caso o cliente faça mais 
+de 100 ligações, será cobrado um valor adicional de 
+R$ 0,10 por ligação, a partir da 101ª até a 300ª; e caso 
+realize entre 300 e 500 ligações, será cobrado um valor 
+fixo mensal de R$ 32,00.
+
+","
+
+Com base nos elementos apresentados, o gráfico que 
+melhor representa a relação entre o valor mensal pago 
+nesse plano e o número de ligações feitas é:
+
+",A,B,C,D,E,B,---
+
+
+32,146,"
+
+
+Um arquiteto está reformando uma casa. De modo 
+a contribuir com o meio ambiente, decide reaproveitar 
+tábuas de madeira retiradas da casa. Ele dispõe de 
+40 tábuas de 540 cm, 30 de 810 cm e 10 de 1 080 cm, 
+todas de mesma largura e espessura. Ele pediu a um 
+carpinteiro que cortasse as tábuas em pedaços de mesmo 
+comprimento, sem deixar sobras, e de modo que as novas 
+peças ficassem com o maior tamanho possível, mas de 
+comprimento menor que 2 m.
+
+
+","
+
+
+Atendendo o pedido do arquiteto, o carpinteiro deverá produzir
+
+",105 peças.,120 peças.,210 peças.,243 peças.,420 peças.,E,---
+
+
+
+33,149,"
+
+Em uma escola, a probabilidade de um aluno 
+compreender e falar inglês é de 30%. Três alunos 
+dessa escola, que estão em fase final de seleção de 
+intercâmbio, aguardam, em uma sala, serem chamados 
+para uma entrevista. Mas, ao invés de chamá-los um a 
+um, o entrevistador entra na sala e faz, oralmente, uma 
+pergunta em inglês que pode ser respondida por qualquer 
+um dos alunos.
+
+
+","
+
+
+A probabilidade de o entrevistador ser entendido e ter sua 
+pergunta oralmente respondida em inglês é
+
+","23,7%","30,0%","44,1%","65,7%","90,0%",D,---
+
+
+
+
+34,152,"
+
+
+
+
+Um casal realiza um financiamento imobiliário de 
+R$ 180 000,00, a ser pago em 360 prestações mensais, 
+com taxa de juros efetiva de 1% ao mês. A primeira 
+prestação é paga um mês após a liberação dos recursos 
+e o valor da prestação mensal é de R$ 500,00 mais juro 
+de 1% sobre o saldo devedor (valor devido antes do 
+pagamento). Observe que, a cada pagamento, o saldo 
+devedor se reduz em R$ 500,00 e considere que não há 
+prestação em atraso.
+
+
+","
+
+
+Efetuando o pagamento dessa forma, o valor, em reais, a 
+ser pago ao banco na décima prestação é de
+
+
+","2 075,00.","2 093,00.","2 138,00.","2 255,00.","2 300,00.",D,---
+
+
+
+35,156,"
+
+
+Para o modelo de um troféu foi escolhido um poliedro 
+P, obtido a partir de cortes nos vértices de um cubo. Com 
+um corte plano em cada um dos cantos do cubo, retira-se 
+o canto, que é um tetraedro de arestas menores do que 
+metade da aresta do cubo. Cada face do poliedro P, então, 
+é pintada usando uma cor distinta das demais faces. 
+
+
+","
+
+
+Com base nas informações, qual é a quantidade de cores 
+que serão utilizadas na pintura das faces do troféu?
+
+",6,8,14,24,30,C,---
+
+
+
+
+36,159,"
+
+
+
+
+O acréscimo de tecnologias no sistema produtivo 
+industrial tem por objetivo reduzir custos e aumentar a 
+produtividade. No primeiro ano de funcionamento, uma 
+indústria fabricou 8 000 unidades de um determinado 
+produto. No ano seguinte, investiu em tecnologia adquirindo 
+novas máquinas e aumentou a produção em 50%. 
+Estima-se que esse aumento percentual se repita nos 
+próximos anos, garantindo um crescimento anual de 50%. 
+Considere P a quantidade anual de produtos fabricados 
+no ano t de funcionamento da indústria.
+
+
+","
+
+
+Se a estimativa for alcançada, qual é a expressão que 
+determina o número de unidades produzidas P em função 
+de t, para t ≥1?
+
+","P(t) = 0,5 · t -¹ + 8 000","P(t) = 50 · t-¹ + 8 000","P(t) = 4 000 · t −¹ + 8 000","P(t) = 8 000 · (0,5) t − ¹","P(t) = 8 000 · (1,5) t − ¹",E,---
+
+
+37,162,"
+
+
+O gerente de um cinema fornece anualmente 
+ingressos gratuitos para escolas. Este ano serão 
+distribuídos 400 ingressos para uma sessão vespertina 
+e 320 ingressos para uma sessão noturna de um 
+mesmo filme. Várias escolas podem ser escolhidas 
+para receberem ingressos. Há alguns critérios para a 
+distribuição dos ingressos: 
+1) cada escola deverá receber ingressos para uma 
+única sessão; 
+2) todas as escolas contempladas deverão receber 
+o mesmo número de ingressos;
+3) não haverá sobra de ingressos (ou seja, todos os 
+ingressos serão distribuídos).
+
+
+","
+
+
+O número mínimo de escolas que podem ser escolhidas 
+para obter ingressos, segundo os critérios estabelecidos, é
+
+
+",2.,4.,9.,40.,80.,C,---
+
+
+
+38,169,"
+
+
+Deseja-se comprar lentes para óculos. As lentes 
+devem ter espessuras mais próximas possíveis da medida 
+3 mm. No estoque de uma loja, há lentes de espessuras: 
+3,10 mm; 3,021 mm; 2,96 mm; 2,099 mm e 3,07 mm. 
+
+
+","
+
+Se as lentes forem adquiridas nessa loja, a espessura 
+escolhida será, em milímetros, de
+
+","2,099.","2,96.","3,021.","3,07.","3,10.",C,---
+
+
+39,172,"
+
+
+Alguns exames médicos requerem uma ingestão de 
+água maior do que a habitual. Por recomendação médica, 
+antes do horário do exame, uma paciente deveria ingerir 
+1 copo de água de 150 mililitros a cada meia hora, durante 
+as 10 horas que antecederiam um exame. A paciente foi 
+a um supermercado comprar água e verificou que havia 
+garrafas dos seguintes tipos:
+• Garrafa I: 0,15 litro
+• Garrafa II: 0,30 litro
+• Garrafa III: 0,75 litro
+• Garrafa IV: 1,50 litro
+• Garrafa V: 3,00 litros
+A paciente decidiu comprar duas garrafas do mesmo 
+tipo, procurando atender à recomendação médica 
+e, ainda, de modo a consumir todo o líquido das duas 
+garrafas antes do exame.
+
+
+","
+
+
+Qual o tipo de garrafa escolhida pela paciente?
+
+",I,II,III,IV,V,D,---
+
+
+
+40,173,"
+
+
+Alguns medicamentos para felinos são 
+administrados com base na superfície corporal do 
+animal. Foi receitado a um felino pesando 3,0 kg um 
+medicamento na dosagem diária de 250 mg por metro 
+quadrado de superfície corporal.
+O quadro apresenta a relação entre a massa do felino, 
+em quilogramas, e a área de sua superfície corporal, em 
+metros quadrados.
+NORSWORTHY, G. D. O paciente felino. São Paulo: Roca, 2009.
+
+","
+
+
+A dose diária, em miligramas, que esse felino deverá 
+receber é de
+
+","0,624.","52,0.","156,0.","750,0.","1 201,9.",B,---
+
+
+41,174,"
+
+
+
+Para economizar em suas contas mensais de 
+água, uma família de 10 pessoas deseja construir 
+um reservatório para armazenar a água captada das 
+chuvas, que tenha capacidade suficiente para abastecer 
+a família por 20 dias. Cada pessoa da família consome, 
+diariamente, 0,08 m³
+ de água.
+
+
+","
+
+
+Para que os objetivos da família sejam atingidos, a 
+capacidade mínima, em litros, do reservatório a ser 
+construído deve ser
+
+
+",16.,800.,1 600.,8 000.,16 000.,E,---
+
+
+
+42,175,"
+
+
+Uma competição esportiva envolveu 20 equipes 
+com 10 atletas cada. Uma denúncia à organização dizia 
+que um dos atletas havia utilizado substância proibida. 
+Os organizadores, então, decidiram fazer um exame 
+antidoping. Foram propostos três modos diferentes para 
+escolher os atletas que irão realizá-lo:
+Modo I: sortear três atletas dentre todos os 
+participantes; 
+Modo II: sortear primeiro uma das equipes e, desta, 
+sortear três atletas;
+Modo III: sortear primeiro três equipes e, então, 
+sortear um atleta de cada uma dessas três equipes. 
+Considere que todos os atletas têm igual probabilidade 
+de serem sorteados e que P(I), P(II) e P(III) sejam as 
+probabilidades de o atleta que utilizou a substância 
+proibida seja um dos escolhidos para o exame no caso do 
+sorteio ser feito pelo modo I, II ou III. 
+
+
+","
+
+
+Comparando-se essas probabilidades, obtém-se
+
+
+","P(I) < P(III) < P(II)","P(II) < P(I) < P(III)","P(I) < P(II) = P(III)","P(I) = P(II) < P(III)","P(I) = P(II) = P(III)",E,---
+
+
+43,179,"
+
+
+
+Uma fábrica de sorvetes utiliza embalagens 
+plásticas no formato de paralelepípedo retangular reto. 
+Internamente, a embalagem tem 10 cm de altura e 
+base de 20 cm por 10 cm. No processo de confecção 
+do sorvete, uma mistura é colocada na embalagem 
+no estado líquido e, quando levada ao congelador, 
+tem seu volume aumentado em 25%, ficando com 
+consistência cremosa.
+Inicialmente é colocada na embalagem uma mistura 
+sabor chocolate com volume de 1 000 cm3 e, após essa 
+mistura ficar cremosa, será adicionada uma mistura 
+sabor morango, de modo que, ao final do processo de 
+congelamento, a embalagem fique completamente 
+preenchida com sorvete, sem transbordar.
+
+
+","
+
+
+O volume máximo, em cm³, da mistura sabor morango 
+que deverá ser colocado na embalagem é
+
+
+",450.,500.,600.,750.,1 000.,C,---
+
+
+44,180,"
+
+
+Em uma central de atendimento, cem pessoas 
+receberam senhas numeradas de 1 até 100. Uma das 
+senhas é sorteada ao acaso.
+
+
+","
+
+
+Qual é a probabilidade de a senha sorteada ser um 
+número de 1 a 20?
+
+
+",1/100,19/100,20/100,21/100,80/100,C,---
+
+
+
+
+
