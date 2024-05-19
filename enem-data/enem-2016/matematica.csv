@@ -1,5 +1,14 @@
 "X","number","context","question","A","B","C","D","E","answer","context.images"
-0,136,"Com base nessas simulações, observou-se que a trajetória do projétil B deveria ser alterada para que o objetivo fosse alcançado.","Para alcançar o objetivo, o coeficiente angular da reta que representa a trajetória de B deverá","diminuir em 2 unidades","diminuir em 4 unidades","aumentar em 2 unidades.","aumentar em 4 unidades.","aumentar em 8 unidades.","C","enem-data/enem-2016/136-images/context_img_0.png"
+0,136,"Para uma feira de ciências, dois projéteis de
+foguetes, A e B, estão sendo construídos para serem
+lançados. O planejamento é que eles sejam lançados
+juntos, com o objetivo de o projétil B interceptar o A
+quando esse alcançar sua altura máxima. Para que isso
+aconteça, um dos projéteis descreverá uma trajetória
+parabólica, enquanto o outro irá descrever uma trajetória
+supostamente retilínea. O gráfico mostra as alturas
+alcançadas por esses projéteis em função do tempo, nas
+simulações realizadas. Com base nessas simulações, observou-se que a trajetória do projétil B deveria ser alterada para que o objetivo fosse alcançado.","Para alcançar o objetivo, o coeficiente angular da reta que representa a trajetória de B deverá","diminuir em 2 unidades","diminuir em 4 unidades","aumentar em 2 unidades.","aumentar em 4 unidades.","aumentar em 8 unidades.","C","enem-data/enem-2016/136-images/context_img_0.png"
 1,137,"Para a construção de isolamento acústico numa
 parede cuja área mede 9 m², sabe-se que, se a fonte
 sonora estiver a 3 m do plano da parede, o custo é
@@ -10,7 +19,17 @@ sonora, e o custo é diretamente proporcional ao volume
 do material do revestimento.","Uma expressão que fornece o custo para revestir
 uma parede de área A (em metro quadrado), situada
 a D metros da fonte sonora, é","","","","","","B",""
-2,138,"Uma menina aos 3 anos de idade tinha altura de 85 centímetros e aos 4 anos e 4 meses sua altura chegou a um valor que corresponde a um ponto exatamente sobre a curva p50. ","Qual foi o aumento percentual da altura dessa menina, descrito com uma casa decimal, no período considerado?","23,5%","21,2%","19,0%","11,8%","10,0%","A","enem-data/enem-2016/138-images/context_img_0.png"
+2,138,"A fim de acompanhar o crescimento de crianças,
+foram criadas pela Organização Mundial da Saúde
+(OMS) tabelas de altura, também adotadas pelo
+Ministério da Saúde do Brasil. Além de informar os
+dados referentes ao índice de crescimento, a tabela
+traz gráficos com curvas, apresentando padrões de
+crescimento estipulados pela OMS.
+O gráfico apresenta o crescimento de meninas,
+cuja análise se dá pelo ponto de intersecção entre o
+comprimento, em centímetro, e a idade, em mês completo
+e ano, da criança. Uma menina aos 3 anos de idade tinha altura de 85 centímetros e aos 4 anos e 4 meses sua altura chegou a um valor que corresponde a um ponto exatamente sobre a curva p50. ","Qual foi o aumento percentual da altura dessa menina, descrito com uma casa decimal, no período considerado?","23,5%","21,2%","19,0%","11,8%","10,0%","A","enem-data/enem-2016/138-images/context_img_0.png"
 3,139,"O cultivo de uma flor rara só é viável se do mês do plantio para o mês subsequente o clima da região possuir as
 seguintes peculiaridades:
 • a variação do nível de chuvas (pluviosidade), nesses meses, não for superior a 50 mm;
@@ -99,9 +118,26 @@ se encontra com sua carga máxima: ele sofre um acidente
 que ocasiona um furo no fundo do compartimento C.
 Para fins de cálculo, considere desprezíveis as
 espessuras das placas divisórias.","Suponha que ocorra um desastre quando o petroleiro se encontra com sua carga máxima: ele sofre um acidente que ocasiona um furo no fundo do compartimento C.Para fins de cálculo, considere desprezíveis as espessuras das placas divisórias.Após o fim do vazamento, o volume de petróleo derramado terá sido de","1,4 × 10³  m³","1,8 × 10³  m³","2,0 × 10³  m³","3,2 × 10³  m³","6,0 × 10³  m³","D","enem-data/enem-2016/146-images/context_img_0.png"
-11,147,"Suponha que relativamente a cada ramificação, as opções existentes de percurso pelos caminhos apresentem iguais probabilidades de escolha, que a caminhada foi feita escolhendo ao acaso os caminhos existentes e que, ao tomar um caminho que chegue a uma área distinta da IV, o adolescente necessariamente passa por ela ou retorna.","Nessas condições, a probabilidade de ele chegar à área IV sem passar por outras áreas e semretornar é igual a","1/96","1/64","5/24","1/4","5/12","C","enem-data/enem-2016/147-images/context_img_0.png"
-12,148,"A prefeitura optou pela seguinte distribuição dos funcionários a serem contratados:I. 10 funcionários para cada região da cidade cujo número de casos seja maior que a média dos casos confirmados.II. 7 funcionários para cada região da cidade cujo número de casos seja menor ou igual à média dos casos confirmados. ","Quantos funcionários a prefeitura deverá contratar para efetivar a ação?","59","65","68","71","80","D","enem-data/enem-2016/148-images/context_img_0.png"
-13,149,"• Marca A: 2 g de fibras a cada 50 g de pão;• Marca B: 5 g de fibras a cada 40 g de pão;• Marca C: 5 g de fibras a cada 100 g de pão;• Marca D: 6 g de fibras a cada 90 g de pão;• Marca E: 7 g de fibras a cada 70 g de pão.Recomenda-se a ingestão do pão que possui a maior concentração de fibras.Disponível em: www.blog.saude.gov.br. Acesso em: 25 fev. 2013.","A marca a ser escolhida é","A","B","C","D","E","B",""
+11,147,"Um adolescente vai a um parque de diversões
+tendo, prioritariamente, o desejo de ir a um brinquedo
+que se encontra na área IV, dentre as áreas I, II, III, IV
+e V existentes. O esquema ilustra o mapa do parque,
+com a localização da entrada, das cinco áreas com os
+brinquedos disponíveis e dos possíveis caminhos para se
+chegar a cada área. O adolescente não tem conhecimento
+do mapa do parque e decide ir caminhando da entrada
+até chegar à área IV. Suponha que relativamente a cada ramificação, as opções existentes de percurso pelos caminhos apresentem iguais probabilidades de escolha, que a caminhada foi feita escolhendo ao acaso os caminhos existentes e que, ao tomar um caminho que chegue a uma área distinta da IV, o adolescente necessariamente passa por ela ou retorna.","Nessas condições, a probabilidade de ele chegar à área IV sem passar por outras áreas e semretornar é igual a","1/96","1/64","5/24","1/4","5/12","C","enem-data/enem-2016/147-images/context_img_0.png"
+12,148,"Em uma cidade, o número de casos de dengue
+confirmados aumentou consideravelmente nos últimos
+dias. A prefeitura resolveu desenvolver uma ação
+contratando funcionários para ajudar no combate à
+doença, os quais orientarão os moradores a eliminarem
+criadouros do mosquito Aedes aegypti, transmissor da
+dengue. A tabela apresenta o número atual de casos
+confirmados, por região da cidade. A prefeitura optou pela seguinte distribuição dos funcionários a serem contratados:I. 10 funcionários para cada região da cidade cujo número de casos seja maior que a média dos casos confirmados.II. 7 funcionários para cada região da cidade cujo número de casos seja menor ou igual à média dos casos confirmados. ","Quantos funcionários a prefeitura deverá contratar para efetivar a ação?","59","65","68","71","80","D","enem-data/enem-2016/148-images/context_img_0.png"
+13,149,"Cinco marcas de pão integral apresentam as
+seguintes concentrações de fibras (massa de fibra por
+massa de pão): • Marca A: 2 g de fibras a cada 50 g de pão;• Marca B: 5 g de fibras a cada 40 g de pão;• Marca C: 5 g de fibras a cada 100 g de pão;• Marca D: 6 g de fibras a cada 90 g de pão;• Marca E: 7 g de fibras a cada 70 g de pão.Recomenda-se a ingestão do pão que possui a maior concentração de fibras.Disponível em: www.blog.saude.gov.br. Acesso em: 25 fev. 2013.","A marca a ser escolhida é","A","B","C","D","E","B",""
 14,150,"Ao iniciar suas atividades, um ascensorista registra tanto o número de pessoas que entram quanto o número
 de pessoas que saem do elevador em cada um dos andares do edifício onde ele trabalha. O quadro apresenta os
 registros do ascensorista durante a primeira subida do térreo, de onde partem ele e mais três pessoas, ao quinto andar
@@ -123,8 +159,20 @@ igual a 2/3 da área do retângulo cujas dimensões são,
 respectivamente, iguais à base e à altura da entrada do túnel.","Qual é a área da parte frontal da tampa de concreto, em
 metro quadrado?","18","20","36","45","54","C",""
 17,153,"Para cadastrar-se em um site, uma pessoa precisa escolher uma senha composta por quatro caracteres, sendo dois algarismos e duas letras (maiúsculas ou minúsculas). As letras e os algarismos podem estar em qualquer posição. Essa pessoa sabe que o alfabeto é composto por vinte e seis letras e que uma letra maiúscula difere da minúscula em uma senha.Disponível em: www.infowester.com. Acesso em: 14 dez. 2012.","O número total de senhas possíveis para o cadastramento nesse site é dado por","enem-data/enem-2016/153-images/alt_img_0.png","enem-data/enem-2016/153-images/alt_img_1.png","enem-data/enem-2016/153-images/alt_img_2.png","enem-data/enem-2016/153-images/alt_img_3.png","enem-data/enem-2016/153-images/alt_img_4.png","E",""
-18,154,"O Índice de Gini, que mede o grau de concentração de renda de um determinado grupo, pode ser calculado pela razão A/(A + B) em que A e B são as medidas das áreas indicadas no gráfico.A empresa tem como meta tornar seu Índice de Gini igual ao do país, que é 0,3. Para tanto, precisa ajustar os salários de modo a alterar o percentual que representa a parcela recebida pelos 10% dos funcionários de maior salário em relação ao total da massa salarial. Disponível em: www.ipea.gov.br. Acesso em: 4 maio 2016 (adaptado)","Para atingir a meta desejada, o percentual deve ser","40%","20%","60%","30%","70%","A","enem-data/enem-2016/154-images/context_img_0.png"
-19,155,"Art. 93. A empresa com 100 (cem) ou mais empregados está obrigada a preencher de 2% (dois por cento) a 5% (cinco por cento) dos seus cargos com beneficiários reabilitados ou pessoas com deficiência, habilitadas, na seguinte proporção: I. até 200 empregados……………….. 2%; II. de 201 a 500 empregados…………… 3%; III. de 501 a 1 000 empregados………… 4%; IV. de 1 001 em diante………………. 5%.Disponível em: www.planalto.gov.br. Acesso em: 3 fev. 2015.Constatou-se que a empresa possui 1 200 funcionários, dos quais 10 são reabilitados ou com deficiência, habilitados.Para adequar-se à referida lei, a empresa contratará apenas empregados que atendem ao perfil indicado no artigo 93.","O número mínimo de empregados reabilitados ou com deficiência, habilitados, que deverá ser contratado pela empresa é","74","70","64","60","53","E",""
+18,154,"A distribuição de salários pagos em uma empresa
+pode ser analisada destacando-se a parcela do total da
+massa salarial que é paga aos 10% que recebem os
+maiores salários. Isso pode ser representado na forma de
+um gráfico formado por dois segmentos de reta, unidos
+em um ponto P, cuja abscissa tem valor igual a 90, como
+ilustrado na figura.
+No eixo horizontal do gráfico tem-se o percentual de
+funcionários, ordenados de forma crescente pelos valores
+de seus salários, e no eixo vertical tem-se o percentual do
+total da massa salarial de todos os funcionários. O Índice de Gini, que mede o grau de concentração de renda de um determinado grupo, pode ser calculado pela razão A/(A + B) em que A e B são as medidas das áreas indicadas no gráfico.A empresa tem como meta tornar seu Índice de Gini igual ao do país, que é 0,3. Para tanto, precisa ajustar os salários de modo a alterar o percentual que representa a parcela recebida pelos 10% dos funcionários de maior salário em relação ao total da massa salarial. Disponível em: www.ipea.gov.br. Acesso em: 4 maio 2016 (adaptado)","Para atingir a meta desejada, o percentual deve ser","40%","20%","60%","30%","70%","A","enem-data/enem-2016/154-images/context_img_0.png"
+19,155,"O setor de recursos humanos de uma empresa
+pretende fazer contratações para adequar-se ao artigo 93
+da Lei n° 8.213/91, que dispõe: Art. 93. A empresa com 100 (cem) ou mais empregados está obrigada a preencher de 2% (dois por cento) a 5% (cinco por cento) dos seus cargos com beneficiários reabilitados ou pessoas com deficiência, habilitadas, na seguinte proporção: I. até 200 empregados……………….. 2%; II. de 201 a 500 empregados…………… 3%; III. de 501 a 1 000 empregados………… 4%; IV. de 1 001 em diante………………. 5%.Disponível em: www.planalto.gov.br. Acesso em: 3 fev. 2015.Constatou-se que a empresa possui 1 200 funcionários, dos quais 10 são reabilitados ou com deficiência, habilitados.Para adequar-se à referida lei, a empresa contratará apenas empregados que atendem ao perfil indicado no artigo 93.","O número mínimo de empregados reabilitados ou com deficiência, habilitados, que deverá ser contratado pela empresa é","74","70","64","60","53","E",""
 20,156,"Uma pessoa comercializa picolés. No segundo dia de
 certo evento ela comprou 4 caixas de picolés, pagando
 R$ 16,00 a caixa com 20 picolés para revendê-los no
@@ -185,7 +233,17 @@ cinco exemplares, com diferentes medidas de diâmetros,
 como segue: (I) 3,8 cm; (II) 4,7 cm; (III) 5,6 cm;
 (IV) 7,2 cm e (V) 9,4 cm. Considere 1,4 e 1,7 como aproximações para √2
 e √3 , respectivamente.","Para que seja atingido o seu objetivo, qual dos exemplares de serra copo o marceneiro deverá escolher?","I","II","III","IV","V","B","enem-data/enem-2016/159-images/context_img_0.png"
-24,160,"Considere que o padrão apresentado no resultado do exame, no período analisado, se repita para os dias subsequentes.","O valor do parâmetro estabelecido pelo nutricionista, para uma dieta semanal, será igual a","28","21","2","7","14","E","enem-data/enem-2016/160-images/context_img_0.png"
+24,160,"Em um exame, foi feito o monitoramento dos níveis de
+duas substâncias presentes (A e B) na corrente sanguínea
+de uma pessoa, durante um período de 24 h, conforme
+o resultado apresentado na figura. Um nutricionista, no
+intuito de prescrever uma dieta para essa pessoa, analisou
+os níveis dessas substâncias, determinando que, para
+uma dieta semanal eficaz, deverá ser estabelecido um
+parâmetro cujo valor será dado pelo número de vezes em
+que os níveis de A e de B forem iguais, porém, maiores
+que o nível mínimo da substância A durante o período de
+duração da dieta. Considere que o padrão apresentado no resultado do exame, no período analisado, se repita para os dias subsequentes.","O valor do parâmetro estabelecido pelo nutricionista, para uma dieta semanal, será igual a","28","21","2","7","14","E","enem-data/enem-2016/160-images/context_img_0.png"
 25,161,"Um paciente necessita de reidratação endovenosa
 feita por meio de cinco frascos de soro durante 24 h.
 Cada frasco tem um volume de 800 mL de soro.
@@ -231,7 +289,9 @@ arquitetônico de uma casa que quer construir, mas, para
 isso, precisa de um terreno na forma retangular (como
 mostrado na Figura A) cujo comprimento seja 7 m maior
 do que a largura.","Para satisfazer o filho mais novo, esse senhor precisa encontrar um terreno retangular cujas medidas, em metro, do comprimento e da largura sejam iguais, respectivamente, a","7,5 e 14,5.","9,0 e 16,0.","9,3 e 16,3.","10,0 e 17,0.","13,5 e 20,5.","B","enem-data/enem-2016/166-images/context_img_0.png"
-31,167,"Avaliando os resultados, o conselho diretor da empresa decidiu comprar, nos dois meses subsequentes, a mesma quantidade de matéria-prima comprada no mês em que o lucro mais se aproximou da média dos lucros mensais dessa empresa nesse período de sete meses.","Nos próximos dois meses, essa empresa deverá comprar a mesma quantidade de matéria-prima comprada no mês","I","II","IV","V","VII","D","enem-data/enem-2016/167-images/context_img_0.png"
+31,167,"Preocupada com seus resultados, uma empresa fez
+um balanço dos lucros obtidos nos últimos sete meses,
+conforme dados do quadro. Avaliando os resultados, o conselho diretor da empresa decidiu comprar, nos dois meses subsequentes, a mesma quantidade de matéria-prima comprada no mês em que o lucro mais se aproximou da média dos lucros mensais dessa empresa nesse período de sete meses.","Nos próximos dois meses, essa empresa deverá comprar a mesma quantidade de matéria-prima comprada no mês","I","II","IV","V","VII","D","enem-data/enem-2016/167-images/context_img_0.png"
 32,168,"Densidade absoluta (d) é a razão entre a massa de um
 corpo e o volume por ele ocupado. Um professor propôs à
 sua turma que os alunos analisassem a densidade de três
@@ -243,7 +303,12 @@ tinha 3/4 da massa do corpo C. Observaram, ainda, que o
 volume do corpo A era o mesmo do corpo B e 20% maior
 do que o volume do corpo C.","Após a análise, os alunos ordenaram corretamente as
 densidades desses corpos da seguinte maneira","d B < dA < dC","d B = dA < dC","d C < dB = dA","d B < dC < dA","d C < dB < dA","A",""
-33,169,"Como o motorista conhece o percurso, sabe que existem, até a chegada a seu destino, cinco postos de abastecimento de combustível, localizados a 150 km, 187 km, 450 km, 500 km e 570 km do ponto de partida.","Qual a máxima distância, em quilômetro, que poderá percorrer até ser necessário reabastecer o veículo, de modo a não ficar sem combustível na estrada?","570","500","450","187","150","B","enem-data/enem-2016/169-images/context_img_0.png"
+33,169,"No tanque de um certo carro de passeio cabem até
+50 L de combustível, e o rendimento médio deste carro na
+estrada é de 15 km/L de combustível. Ao sair para uma
+viagem de 600 km o motorista observou que o marcador
+de combustível estava exatamente sobre uma das marcas
+da escala divisória do medidor, conforme figura a seguir. Como o motorista conhece o percurso, sabe que existem, até a chegada a seu destino, cinco postos de abastecimento de combustível, localizados a 150 km, 187 km, 450 km, 500 km e 570 km do ponto de partida.","Qual a máxima distância, em quilômetro, que poderá percorrer até ser necessário reabastecer o veículo, de modo a não ficar sem combustível na estrada?","570","500","450","187","150","B","enem-data/enem-2016/169-images/context_img_0.png"
 34,170,"Sob a orientação de um mestre de obras, João
 e Pedro trabalharam na reforma de um edifício. João
 efetuou reparos na parte hidráulica nos andares 1, 3, 5, 7,
@@ -256,7 +321,16 @@ o número de andares do edifício. Sabe-se que, ao longo
 da execução da obra, em exatamente 20 andares, foram
 realizados reparos nas partes hidráulica e elétrica por João
 e Pedro.","Qual é o número de andares desse edifício?","40","60","100","115","120","D",""
-35,171,"Estudos de viabilidade técnica mostraram que, pelas características do solo, a construção de 1 m de galeria via segmento de reta demora 1,0 h, enquanto que 1 m de construção de galeria via semicircunferência demora 0,6 h. Há urgência em disponibilizar água para esse bairro.Use 3 como aproximação para π e 1,4 como aproximação para √2 .","O menor tempo possível, em hora, para conclusão da construção da galeria, para atender às necessidades de água do bairro, é de","1 260.","2 520.","2 800.","3 600.","4 000.","B","enem-data/enem-2016/171-images/context_img_0.png"
+35,171,"Em uma cidade será construída uma galeria
+subterrânea que receberá uma rede de canos para o
+transporte de água de uma fonte (F) até o reservatório de
+um novo bairro (B).
+Após avaliações, foram apresentados dois projetos
+para o trajeto de construção da galeria: um segmento de reta
+que atravessaria outros bairros ou uma semicircunferência
+que contornaria esses bairros, conforme ilustrado no
+sistema de coordenadas xOy da figura, em que a unidade
+de medida nos eixos é o quilômetro. Estudos de viabilidade técnica mostraram que, pelas características do solo, a construção de 1 m de galeria via segmento de reta demora 1,0 h, enquanto que 1 m de construção de galeria via semicircunferência demora 0,6 h. Há urgência em disponibilizar água para esse bairro.Use 3 como aproximação para π e 1,4 como aproximação para √2 .","O menor tempo possível, em hora, para conclusão da construção da galeria, para atender às necessidades de água do bairro, é de","1 260.","2 520.","2 800.","3 600.","4 000.","B","enem-data/enem-2016/171-images/context_img_0.png"
 36,172,"A figura representa o globo terrestre e nela estão
 marcados os pontos A, B e C. Os pontos A e B estão
 localizados sobre um mesmo paralelo, e os pontos B e
@@ -285,7 +359,15 @@ a medida da massa de contaminantes não capturados
 e o número de dias, o que corresponde ao de pior
 desempenho.
 Disponível em: www.redebrasilatual.com.br. Acesso em: 12 jul. 2015 (adaptado).","O filtro descartado é o","F1","F2","F3","F4","F5","B",""
-38,174,"sendo E a energia, em kWh, liberada pelo terremoto e E0 uma constante real positiva. Considere que E1 e E2 representam as energias liberadas nos terremotos ocorridos no Japão e na China, respectivamente.","Qual a relação entre E1 e E2?","E1 = E2 + 2","E1 = 10².E2","E1 = 10³.E2","E1 = 109/7.E2","E1 = 9/7.E2","C","enem-data/enem-2016/174-images/context_img_0.png"
+38,174,"Em 2011, um terremoto de magnitude 9,0 na escala
+Richter causou um devastador tsunami no Japão,
+provocando um alerta na usina nuclear de Fukushima.
+Em 2013, outro terremoto, de magnitude 7,0 na mesma
+escala, sacudiu Sichuan (sudoeste da China), deixando
+centenas de mortos e milhares de feridos. A magnitude
+de um terremoto na escala Richter pode ser calculada por
+M = 2 log ( E
+)3 E. sendo E a energia, em kWh, liberada pelo terremoto e E0 uma constante real positiva. Considere que E1 e E2 representam as energias liberadas nos terremotos ocorridos no Japão e na China, respectivamente.","Qual a relação entre E1 e E2?","E1 = E2 + 2","E1 = 10².E2","E1 = 10³.E2","E1 = 109/7.E2","E1 = 9/7.E2","C","enem-data/enem-2016/174-images/context_img_0.png"
 39,175,"Em regiões agrícolas, é comum a presença de silos
 para armazenamento e secagem da produção de grãos,
 no formato de um cilindro reto, sobreposto por um cone,
